@@ -4,18 +4,20 @@ body {
 }
 
 p {
-  font-variant: small-caps;
+  font-size: medium;
+  font-family: calibri;
   color: gray;
 }
 
-.jumbotron {
-  position: relative;
+.container {
   background: none;
   text-align: center;
 }
 
-.jumbotron {
-  background-color: rgba(239,239,239,1);
+.progress {
+  width: 80px;
+  margin: 20px auto;
+  position: relative;
 }
 
 /* rgba(247,252,240,1) rgba(224,243,219,1) rgba(204,235,197,1)    

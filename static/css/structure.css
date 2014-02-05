@@ -1,0 +1,16 @@
+.nav-tabs {
+  text-align: center;
+}
+
+.nav-tabs > li {
+  width: 24%;
+  float:none;
+  display:inline-block;
+}
+
+ul.nav a {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+ul.nav a:hover { background-color: rgba(78,179,211,0.4) !important; }
